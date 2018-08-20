@@ -458,7 +458,7 @@ html {
     position: relative;
     width: 100%;
     height: 100vh;
-    background-image: url(img/3.jpg);
+    background-image: url(https://unsplash.it/1920/1080);
     background-size: cover;
     background-position: center;
     display: flex;
@@ -479,8 +479,8 @@ html {
 }
 
 .landing>h1 {
-    color: #B10DC9;
-    font-family: Skia;
+    color: lightblue;
+    font-family: 'Josefin Sans';
     font-weight: normal;
 }
 
@@ -623,14 +623,14 @@ header {
 }
 
 header>h1 {
-    font-family: Skia;
+    font-family: 'Josefin Sans';
     font-weight: normal;
-    color: #B10DC9;
+    color: lightblue;
     margin: 0;
 }
 
 header>h1>a {
-    color: #B10DC9;
+    color: lightblue;
     text-decoration: none;
 }
 
